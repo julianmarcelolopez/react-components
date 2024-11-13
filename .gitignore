@@ -1,0 +1,40 @@
+# Node modules
+/node_modules/
+
+# Build output
+/build/
+
+# Dependency directories
+/.pnp/
+/.pnp.js
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment files
+.env
+.env.test
+.env.production
+
+# Next.js build output
+.next/
+
+# React Native
+# .expo/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDEs and text editors
+/.vscode/
+/.idea/
+/.vscode-test/
+/*.iml
+
+# Other
+.npm/
